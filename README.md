@@ -1,3 +1,5 @@
+Link Video: https://duoc-blackboardultrapilot1.kaf.kaltura.com/media/t/1_scm021zf/408573102
+
 Llanquihue Tour App - Sumativa Semana 8
 ¡Hola! Este es mi proyecto para la Semana 8 de Programación Orientada a Objetos. El sistema está diseñado para la agencia Llanquihue Tour de la Región de Los Lagos, y sirve para gestionar de forma más ordenada a sus guías, vehículos y colaboradores externos.
 ¿Qué hace este sistema?
